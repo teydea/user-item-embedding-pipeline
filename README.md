@@ -1,5 +1,4 @@
 # user-item-embedding-pipeline
-# user-item-embedding-pipeline  
 > Построение shared embedding space для пользователей и товаров (Ozon Hackathon)
 
 Проект реализован в команде из 3 человек.  
